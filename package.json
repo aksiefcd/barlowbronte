@@ -1,0 +1,33 @@
+{
+  "name": "barlowbronte",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "barlowbronte.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aksiefcd/barlowbronte"
+  },
+  "website": "https://github.com/aksiefcd/barlowbronte.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "aksiefcd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksiefcd/barlowbronte/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/aksiefcd/barlowbronte#readme",
+  "dependencies": {
+    "genevievetommy": "1.0.2"
+  }
+}
